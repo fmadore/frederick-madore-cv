@@ -1,7 +1,3 @@
-# <center>Frédérick Madore
-
-# Curriculum Vitae</center>
-
 <center>14 november 2023<br>
 Leibniz-Zentrum Moderner Orient<br>
 Kirchweg 33<br>
