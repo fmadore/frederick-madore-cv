@@ -92,7 +92,7 @@
 
 - 2023–	Islam West Africa Collection is a collaborative, open-access digital database that currently contains over 5,000 documents of various types relating to Islam and Muslims in Burkina Faso, Benin, Niger, Nigeria, Togo, and Côte d’Ivoire.
 - 2018–23	Islam Burkina Faso Collection is an open-access database hosted by the University of Florida libraries containing over 2,900 archival documents, newspaper articles, Islamic publications, photographs, and 270 bibliographical references related to Islam in Burkina Faso.<br>
-Reviewed in Reviews in Digital Humanities and Mande Studies
+Reviewed in *Reviews in Digital Humanities* and *Mande Studies*
 
 # Invited Talks
 - 2023	“Launch of the Islam West Africa Collection”, Media in Cooperation and Transition (MiCT), Berlin, 9 November.
