@@ -145,11 +145,13 @@ Germany
 - 2013	“La médiatisation de l’islam à Ouagadougou depuis 1991: entre normalisation des discours et nouvelle agency des musulmans”, 43rd Annual Canadian Association of African Studies Conference, University of Ottawa (Canada), 1–3 May.
 - 2013	“Imams, Islamic Preachers and Public Space in Ouagadougou (Burkina Faso) since the 1990s: Toward New Intergenerational Relationships and a Muslim Public Sphere”, 2013 Africa Conference, University of Texas at Austin (United States), 29–31 March.
 - 2012	“Imams et espace public à Ouagadougou depuis 1990: entre visibilité nouvelle et concertation entre les générations”, 42nd Annual Canadian Association of African Studies Conference, Université Laval (Canada), 2–4 May.
-- Organization of Academic Events
+
+## Organization of Academic Events
 - 2023	Conference “University Campuses in Africa and Beyond: Training Grounds, Moral Spaces and Political Arenas”, Leibniz-Zentrum Moderner Orient (Germany), 6–8 September.
 - 2022	Workshop “Religions on Campus: Coexisting Traditions, Reformulating the Secular and Life Projects”, LASDEL, Niamey (Niger), 31 October–4 November.
 - 2021	Workshop “Religion in Higher Educational Institutions in Africa and Beyond: (Re)Conversion, Power, and Authority from a Comparative Perspective”, Leibniz-Zentrum Moderner Orient (Germany), 16–17 November.
-- Campus or Departmental Talks
+
+## Campus or Departmental Talks
 - 2023	“Religious activism in Benin and Togo in an era of democratisation and campuses in turmoil (1990s)”, Projektversammlung, Leibniz-Zentrum Moderner Orient, 30 March.
 - 2021	“Salafism and Pentecostalism on University Campuses in Benin and Togo since the 1970s: Lived Religion in ‘Secular’ Contexts”, Contested Religion Unit, Leibniz-Zentrum Moderner Orient, 20 May.
 - 2020	“Public Islam in Côte d’Ivoire and Burkina Faso: a comparative overview of the use of media by Muslims since the 1970s”, Workshop Media and “Public” Islam in Africa & Elsewhere, Center for Global Islamic Studies, University of Florida, 24 January.
@@ -161,48 +163,56 @@ Germany
 - 2016	“Évolutions et nouvelles formes de l’islam en Afrique de l’Ouest: vers une radicalisation?” round table organized by CIRAM, Université Laval, 24 March.
 
 # Teaching Experience
-- Universität Bayreuth
-- Guest Lecturer
+## Universität Bayreuth
+### Guest Lecturer
 - “Islam and Muslims in West Africa”, Religion in/from Africa, graduate (31 May 2022).
-- University of Ottawa
-- Instructor
+
+## University of Ottawa
+### Instructor
 - The African Past, undergraduate (fall 2020)
-- University of Florida
-- Instructor
+
+## University of Florida
+### Instructor
 - Francophone West Africa, undergraduate (spring 2020)
-- Guest Lecturer
+### Guest Lecturer
 - “Colonial Surveillance in French West Africa in the Interwar Period”, Politics, Identity and Violence in Africa, undergraduate (11 September 2020).
 - “Islam and Muslim Societies in Francophone West Africa”, Religions of Africa, undergraduate (5 September 2019).
-- Université Laval
-- Instructor
+
+## Université Laval
+### Instructor
 - Dissertation historique [Historical writing], undergraduate (8 sections; fall 2013–winter 2018)
-- Teaching Assistant
+### Teaching Assistant
 - Le monde aux XIXe et XXe siècles [The World in the nineteenth and twentieth centuries], undergraduate (10 sections; fall 2010–fall 2017)
 - Histoire religieuse au Québec [Religious history of Quebec], undergraduate (winter 2016)
 - Recherche, analyse et dissertation [Research, analysis and dissertation], undergraduate (fall 2010, winter 2011)
 - Dissertation historique [Historical writing], undergraduate (fall 2010)
-- Guest Lecturer
+### Guest Lecturer
 - “Outils technologiques pour la recherche en histoire”, Recherche et rédaction [Research and Writing], undergraduate (16 February 2018)
 - “La recherche historique en Afrique de l’Ouest: enjeux et défis”, Les sciences historiques aujourd’hui [Historical Sciences Today], undergraduate (5 February 2018)
 - “Religions et enjeux de pouvoir”, Afrique subsaharienne: diversité culturelle et mondialisation [Sub-Saharan Africa: Cultural Diversity and Globalization], undergraduate (3 April 2017)
 - “Sociétés, religion et politique”, Politique et société en Afrique [Politics and Society in Africa], graduate (28 February 2017)
 - “Outils technologiques pour la recherche doctorale”, Projet de thèse [Dissertation Project], graduate (13 January 2017; 1 February 2016)
-- Research Experience
-- Fieldwork Experience
+
+# Research Experience
+## Fieldwork Experience
 - Ouagadougou (Burkina Faso), October – November 2011; April – July 2015
 - Abidjan (Côte d’Ivoire), November 2014 – April 2015
 - Cotonou & Porto-Novo (Benin), March – May 2019; February – March 2022
 - Lomé (Togo), May 2019; August – September 2021; November 2022
-- 2016–17	Coordinator, CIRAM, Université Laval
+
+## 2016–17	Coordinator, CIRAM, Université Laval
 - Coordinated activities of the Centre Interdisciplinaire de Recherche sur l’Afrique et le Moyen-Orient [Interdisciplinary Center for Research on Africa and the Middle East].
 - Drafted the application for the “Centre en émergence” [Emerging center] status for the CIRAM. The recognition was granted by the Vice-rectorat à la recherche [Vice-Rector for Research] in 2017.
 - Developed the digital presence of the research center (website, Facebook, Twitter, YouTube).
-- 2016–17	Research Assistant, Université Laval/University of Ottawa
+
+## 2016–17	Research Assistant, Université Laval/University of Ottawa
 - For the SSHRC project “Mosquées, Hâjj et partis politiques au Sahel et en Afrique centrale: figures de réussite et entrepreneuriat religieux” [Mosques, Hâjj and Political Parties in the Sahel and in Central Africa: Figures of Success and Religious Entrepreneurship] directed by M. Gomez-Perez (lead researcher), C. Jourde and M. Brossier.
 - Trained the research team on data management software to manage bibliographic data and related research materials.
-- 2014		Research Assistant, GIERSA, Université Laval
+
+## 2014		Research Assistant, GIERSA, Université Laval
 - Contributed to the creation of an online database of master and thesis dissertations on Africa for the website of the Groupe Interuniversitaire d’Études et de Recherches sur les Sociétés Africaines [Inter-University Group of Studies and Research on African Societies].
-- 2011		Research Assistant, Université du Québec à Montréal (UQÀM)
+
+## 2011		Research Assistant, Université du Québec à Montréal (UQÀM)
 - For the SSHRC project “ONG confessionnelles en Afrique: une société civile en construction?” [Faith-based NGOs in Africa: A civil society in formation?] directed by M.N. LeBlanc (lead researcher) and M. Gomez-Perez.
 - Conducted interviews of leaders of Islamic NGOs in Ouagadougou (Burkina Faso) and wrote field report.
 
@@ -221,19 +231,22 @@ Germany
 	Topic: deteriorating security situation in Burkina Faso.
 - 2019	Interviewed by Journal de Montréal, 26 January.
 	Topic: deteriorating security situation in Burkina Faso.
-- Languages
+
+# Languages
 - French: Native speaker
 - English: Advanced reading, writing, speaking
 - German: Beginner reading, writing, speaking
 - Modern Standard Arabic: Beginner reading, writing, speaking
-- Professional Affiliations
+
+# Professional Affiliations
 - Network “Dynamiques religieuses en Afrique” (DYNRELAF), 2023–present
 - Humanistica (Association francophone des humanités numériques/digitales), 2023–present
 - Association des Humanités numériques d’Afrique francophone (AHNAF), 2022–present
 - Mande Studies Association (MANSA), 2020–present
 - Sahel Research Group (University of Florida), 2018–present
 - Islam in Africa Studies Group (IASG), African Studies Association (ASA), 2017–present
-- Computer Skills
+
+# Computer Skills
 - ABBYY FineReader PDF
 - Microsoft Office
 - Omeka S
@@ -241,26 +254,3 @@ Germany
 - Tropy
 - Wikidata
 - WordPress
-- References
-- Abdoulaye Sounaye, Head of Research Unit “Contested Religion”
-- Leibniz-Zentrum Moderner Orient (ZMO)
-33 Kirchweg, 14129, Berlin
-Germany
-+49-(0)30-80307-218 / 
-
-- Muriel Gomez-Perez, Professor of History
-- Pavillon Charles-De Koninck Local 5314
-1030, avenue des Sciences humaines
-Université Laval
-Québec (QC) G1V 0A6
-Canada
-+1-418-656-2131, extension #407716 / 
-
-- Leonardo A. Villalón, Professor of African Politics
-- 427 Grinter Hall
-PO Box 115560
-University of Florida
-Gainesville, FL 32611–5560
-United States
-+1-352-273-1536 / 
-
