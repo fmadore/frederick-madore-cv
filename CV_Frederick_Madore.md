@@ -7,18 +7,21 @@ Kirchweg 33
 Germany
 
 # Education
-- Ph.D.	Department of History (with distinction), Université Laval, Canada, 2018
-- Dissertation: Rivalités et collaborations entre ainés et cadets sociaux dans les milieux associatifs islamiques en Côte d’Ivoire et au Burkina Faso (1970–2017)
-- Co-advisors: Muriel Gomez-Perez and Cédric Jourde (University of Ottawa)
+
+- Ph.D.	Department of History (with distinction), Université Laval, Canada, 2018<br>
+  Dissertation: Rivalités et collaborations entre ainés et cadets sociaux dans les milieux associatifs islamiques en Côte d’Ivoire et au Burkina Faso (1970–2017)<br>
+  Co-advisors: Muriel Gomez-Perez and Cédric Jourde (University of Ottawa)
 - M.A.	Department of History (with distinction), Université Laval, Canada, 2013
 - B.A.	Department of History, Université Laval, Canada, 2010
 
 ## Digital Humanities Trainings
+
 - 2023	“”, Hebrew University, Mount Scopus Campus (Israel), 27 February–1 March.
 - 2023	“Les humanités numériques dans les projets de recherche”, , Université de Poitiers (France), 23–27 January.
 - 2022	“Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives”, , University of Leipzig (Germany), 2–12 August.
 
 ## Certificate
+
 - 2017	Arabic language, Université Laval, Canada
 - Professional appointments
 - 2021–	Research Fellow, Leibniz-Zentrum Moderner Orient (Germany)
@@ -26,7 +29,9 @@ Germany
 - 2018–20	Banting Postdoctoral Fellow, Center for African Studies, University of Florida (United States)
 
 # Publications
+
 ## Books
+
 - 2023	Sounaye, A. and F. Madore (eds.), . Berlin: LIT Verlag.
 - 2016	La construction d’une sphère publique musulmane en Afrique de l’Ouest. Québec/Paris: /.
 - Reviewed in , ,
