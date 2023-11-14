@@ -1,4 +1,4 @@
-# <center>Frédérick Madore<\center>
+# <center>Frédérick Madore</center>
 
 # Education
 
