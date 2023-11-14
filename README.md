@@ -1,5 +1,4 @@
-<center>14 november 2023<br>
-Leibniz-Zentrum Moderner Orient<br>
+<center>Leibniz-Zentrum Moderner Orient<br>
 Kirchweg 33<br>
 14129 Berlin<br>
 Germany</center>
