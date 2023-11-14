@@ -18,16 +18,16 @@ Germany
 
 ## Digital Humanities Trainings
 
-- 2023	“”, Hebrew University, Mount Scopus Campus (Israel), 27 February–1 March.
-- 2023	“Les humanités numériques dans les projets de recherche”, , Université de Poitiers (France), 23–27 January.
-- 2022	“Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives”, , University of Leipzig (Germany), 2–12 August.
+- 2023	“HUJI-FUB Digital Humanities Winter School 2023”, Hebrew University, Mount Scopus Campus (Israel), 27 February–1 March.
+- 2023	“Les humanités numériques dans les projets de recherche”, École d’hiver EnExDi, Université de Poitiers (France), 23–27 January.
+- 2022	“Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives”, 12th European Summer University in Digital Humanities “Culture & Technology”, University of Leipzig (Germany), 2–12 August.
 
 ## Certificate
 
 - 2017	Arabic language, Université Laval, Canada
 
 # Professional appointments
-- 2021–	Research Fellow, Leibniz-Zentrum Moderner Orient (Germany)
+- 2021–		Research Fellow, Leibniz-Zentrum Moderner Orient (Germany)
 - 2020		Part-Time Professor, Department of History, University of Ottawa (Canada)
 - 2018–20	Banting Postdoctoral Fellow, Center for African Studies, University of Florida (United States)
 
@@ -36,93 +36,94 @@ Germany
 ## Books
 
 - 2023	SOUNAYE, A. and **F. MADORE** (eds.), *Religiosity on University Campuses in Africa: Trends and Experiences*. Berlin: LIT Verlag.
-- 2016	La construction d’une sphère publique musulmane en Afrique de l’Ouest. Québec/Paris: Presses de l’Université Laval/Hermann.<br>
+- 2016	*La construction d’une sphère publique musulmane en Afrique de l’Ouest*. Québec/Paris: Presses de l’Université Laval/Hermann.<br>
 	*Reviewed in Afrique contemporaine*, *Cahiers d'études africaines*, *The Journal of African History*
 
 ## Guest Edited Journals
-- 2021–22	**MADORE, F.** and D. SCHULZ (eds.), “Muslim Minorities in Africa, Part 1 & Part 2” Islamic Africa 12 (2) / 13 (1). https://brill.com/view/journals/iafr/12/2/iafr.12.issue-2.xml / https://brill.com/view/journals/iafr/13/1/iafr.13.issue-1.xml.
-- 2017	MILLET MOUITY, P. and **F. MADORE** (eds.), “Les acteurs religieux africains à l’ère du numérique” Émulations 24. 10.14428/emulations.024.
+- 2021–22	**MADORE, F.** and D. SCHULZ (eds.), “Muslim Minorities in Africa, Part 1 & Part 2” *Islamic Africa* 12 (2) / 13 (1). https://brill.com/view/journals/iafr/12/2/iafr.12.issue-2.xml / https://brill.com/view/journals/iafr/13/1/iafr.13.issue-1.xml.
+- 2017	MILLET MOUITY, P. and **F. MADORE** (eds.), “Les acteurs religieux africains à l’ère du numérique” *Émulations* 24. 10.14428/emulations.024.
   
 ## Refereed Journal Articles
-- 2022	“A Beninese Imam’s Controversial 2019 Election Campaign: Muslim Leadership and Political Engagement in a Minority Context” Islamic Africa 13 (1): 1–26. .
-- 2021	“La Collection Islam Burkina Faso: promesses et défis des humanités numériques” Revue d’Histoire Contemporaine de l’Afrique. .
-- 2021	“‘Good Muslim, bad Muslim’ in Togo: religious minority identity construction amid a sociopolitical crisis (2017–2018)” The Journal of Modern African Studies 59 (2): 197–217. .
-- 2020	“Muslim Feminist, Media Sensation, and Religious Entrepreneur: Aminata Kane Koné as a Figure of Success in Côte d’Ivoire” Africa Today 67 (2–3): 17–38. .
-- 2020	“Francophone Muslim intellectuals, Islamic associational life and religious authority in Burkina Faso” Africa 90 (3): 625–46. .
-- 2018	Madore, F. and Y Traoré, “L’organisation du hadj en Côte d’Ivoire: entre facteur de cohésion et source de rivalités au sein de la communauté musulmane (1993–2010)” Cahiers d’études africaines 229: 179–208. .
-- 2017	Millet-Mouity, P. and F. Madore, “Pour de nouvelles études sur les acteurs religieux africains à l’ère du numérique” Émulations 24: 11–22. .
-- 2017	Hackett, R.I.J., F. Madore and P. Millet-Mouity, “Interview with Rosalind I.J. Hackett on Religion and Digital Media Trends in Africa” Émulations 24: 125–33. .
-- 2016	“The New Vitality of Salafism in Côte d’Ivoire: Toward a Radicalization of Ivoirian Islam?” Journal of Religion in Africa 46 (4): 417–52. .
-- 2016	“L’islam ivoirien et burkinabé à l’ère du numérique 2.0” Journal des anthropologues 146–147: 151–78. .
-- 2016	“Islam, médias, mise en place du Sénat et article 37 de la Constitution: changement de paradigme au Burkina Faso (1991–2014)?” Canadian Journal of African Studies / Revue canadienne des études africaines 50 (1): 7–27. .
-- 2016	Madore, F. and M. Gomez-Perez, “Muslim Women in Burkina Faso since the 1970s: Toward Recognition as Figures of Religious Authority?” Islamic Africa 7 (2): 185–209. .
-- 2013	Gomez-Perez, M. and F. Madore, “Prêcheurs(ses) musulman(e)s et stratégies de communication au Burkina Faso depuis 1990: des processus différentiés de conversion interne” Théologiques 21 (2): 121–57. .
+- 2022	“A Beninese Imam’s Controversial 2019 Election Campaign: Muslim Leadership and Political Engagement in a Minority Context” Islamic Africa 13 (1): 1–26. 10.1163/21540993-01202004.
+- 2021	“La Collection Islam Burkina Faso: promesses et défis des humanités numériques” Revue d’Histoire Contemporaine de l’Afrique. 10.51185/journals/rhca.2021.e610.
+- 2021	“‘Good Muslim, bad Muslim’ in Togo: religious minority identity construction amid a sociopolitical crisis (2017–2018)” The Journal of Modern African Studies 59 (2): 197–217. 10.1017/S0022278X21000094.
+- 2020	“Muslim Feminist, Media Sensation, and Religious Entrepreneur: Aminata Kane Koné as a Figure of Success in Côte d’Ivoire” Africa Today 67 (2–3): 17–38. 10.2979/africatoday.67.2-3.02.
+- 2020	“Francophone Muslim intellectuals, Islamic associational life and religious authority in Burkina Faso” Africa 90 (3): 625–46. 10.1017/S0001972020000108.
+- 2018	MADORE, F. and Y TRAORÉ, “L’organisation du hadj en Côte d’Ivoire: entre facteur de cohésion et source de rivalités au sein de la communauté musulmane (1993–2010)” Cahiers d’études africaines 229: 179–208. 10.4000/etudesafricaines.21880.
+- 2017	MILLET-MOUITY, P. and F. MADORE, “Pour de nouvelles études sur les acteurs religieux africains à l’ère du numérique” Émulations 24: 11–22. 10.14428/emulations.024.001.
+- 2017	HACKETT, R.I.J., F. MADORE and P. MILLET-MOUITY, “Interview with Rosalind I.J. Hackett on Religion and Digital Media Trends in Africa” Émulations 24: 125–33. 10.14428/emulations.024.008.
+- 2016	“The New Vitality of Salafism in Côte d’Ivoire: Toward a Radicalization of Ivoirian Islam?” Journal of Religion in Africa 46 (4): 417–52. 10.1163/15700666-12340090.
+- 2016	“L’islam ivoirien et burkinabé à l’ère du numérique 2.0” Journal des anthropologues 146–147: 151–78. 10.4000/jda.6525.
+- 2016	“Islam, médias, mise en place du Sénat et article 37 de la Constitution: changement de paradigme au Burkina Faso (1991–2014)?” Canadian Journal of African Studies / Revue canadienne des études africaines 50 (1): 7–27. 10.1080/00083968.2015.1101008.
+- 2016	MADORE, F. and M. GOMEZ-PEREZ, “Muslim Women in Burkina Faso since the 1970s: Toward Recognition as Figures of Religious Authority?” Islamic Africa 7 (2): 185–209. 10.1163/21540993-00702001.
+- 2013	GOMEZ-PEREZ, M. and F. MADORE, “Prêcheurs(ses) musulman(e)s et stratégies de communication au Burkina Faso depuis 1990: des processus différentiés de conversion interne” Théologiques 21 (2): 121–57. 10.7202/1028465ar.
 
 ## Book Chapters
-- Forthcoming	Madore, F. and L. Audet Gosselin, “Religion on the Internet and in ICT in Burkina Faso” in A. Degorce, L.O. Kibora and K. Langewiesche (eds.), . Dakar: Amalion.
-- 2023	“Introduction: Religiosity on University Campuses in Africa” in A. Sounaye and F. Madore (eds.), , 3–21. Berlin: LIT Verlag.
-- 2023	“Exister en contexte autoritaire: les associations étudiantes chrétiennes et islamiques à l’Université de Lomé sous Gnassingbé Eyadéma, 1970–2005” in A. Sounaye and F. Madore (eds.), , 51–83. Berlin: LIT Verlag.
-- 2023	Madore, F. and I. Binaté, “Islam on University Campuses in Côte d’Ivoire since the 1970s: Muslim Intellectuals and Francophone Salafism” in A. Sounaye and F. Madore (eds.), , 273–307. Berlin: LIT Verlag.
-- 2021	Madore, F. and A.-A. Brassard, “Du plan au brouillon: l’essentiel pour structurer ses idées et éviter le syndrome de la page blanche” in F. Piron and É. Arsenault (eds.), . Québec: Éditions science et bien commun.
-- 2020	“Imams, Islamic Preachers, and Public Space in Ouagadougou (Burkina Faso) since the 1990s: Toward New Intergenerational Relationships and a Muslim Public Sphere” in L.J. Acquah and T. Falola (eds.), , 183–213. Durham, NC: Carolina Academic Press.
-- 2019	Madore, F. and L. Audet Gosselin, “Le religieux sur Internet et dans les NTIC au Burkina Faso” in A. Degorce, L.O. Kibora and K. Langewiesche (eds.), , 269–96. Dakar: Amalion.
-- 2016	Couillard, K., F. Madore and M. Gomez-Perez, “Leaders of National and Transnational Muslim NGOs in Burkina Faso: Diverse Forms and Experiences of Islamic Civic Engagement” in M.N. LeBlanc and L. Audet Gosselin (eds.), Faith and Charity: Religion and Humanitarian Assistance in West Africa, 105–23. London: Pluto Press. .
+- Forthcoming	MADORE, F. and L. AUDET GOSSELIN, “Religion on the Internet and in ICT in Burkina Faso” in A. DEGORCE, L.O. KIBORA and K. LANGEWIESCHE (eds.), Religious Encounters and Social - Dynamics in Burkina Faso. Dakar: Amalion.
+- 2023	“Introduction: Religiosity on University Campuses in Africa” in A. SOUNAYE and F. MADORE (eds.), Religiosity on University Campuses in Africa: Trends and Experiences, 3–21. Berlin: LIT Verlag.
+- 2023	“Exister en contexte autoritaire: les associations étudiantes chrétiennes et islamiques à l’Université de Lomé sous Gnassingbé Eyadéma, 1970–2005” in A. SOUNAYE and F. MADORE (eds.), Religiosity on University Campuses in Africa: Trends and Experiences, 51–83. Berlin: LIT Verlag.
+- 2023	MADORE, F. and I. BINATÉ, “Islam on University Campuses in Côte d’Ivoire since the 1970s: Muslim Intellectuals and Francophone Salafism” in A. SOUNAYE and F. MADORE (eds.), Religiosity on University Campuses in Africa: Trends and Experiences, 273–307. Berlin: LIT Verlag.
+- 2021	MADORE, F. and A.-A. BRASSARD, “Du plan au brouillon: l’essentiel pour structurer ses idées et éviter le syndrome de la page blanche” in F. PIRON and É. ARSENAULT (eds.), Guide décolonisé et pluriversel de formation à la recherche en sciences sociales et humaines. Québec: Éditions science et bien commun.
+- 2020	“Imams, Islamic Preachers, and Public Space in Ouagadougou (Burkina Faso) since the 1990s: Toward New Intergenerational Relationships and a Muslim Public Sphere” in L.J. ACQUAH and T. FALOLA (eds.), Perspectives on the Religious Landscape in Africa, 183–213. Durham, NC: Carolina Academic Press.
+- 2019	MADORE, F. and L. AUDET GOSSELIN, “Le religieux sur Internet et dans les NTIC au Burkina Faso” in A. DEGORCE, L.O. KIBORA and K. LANGEWIESCHE (eds.), Rencontres religieuses et dynamiques sociales au Burkina Faso, 269–96. Dakar: Amalion.
+- 2016	COUILLARD, K., F. MADORE and M. GOMEZ-PEREZ, “Leaders of National and Transnational Muslim NGOs in Burkina Faso: Diverse Forms and Experiences of Islamic Civic Engagement” in M.N. LEBLANC and L. AUDET GOSSELIN (eds.), Faith and Charity: Religion and Humanitarian Assistance in West Africa, 105–23. London: Pluto Press. 10.2307/j.ctt1gk0810.11.
 
 ## Report
-- 2022	“Lutte contre le terrorisme et sécuritisation du salafisme au Bénin et au Togo: instrumentalisations diverses d’une “‘menace étrangère’”, Bulletin FrancoPaix 7 (8): 2–7. .
-- Encyclopedia Entry
-- 2014	Madore, F. and M. Gomez-Perez, “Communauté Musulmane du Burkina Faso” in The Encyclopaedia of Islam, THREE, 66–67. Leiden: Brill. .
-- Conference Proceedings
-- 2017	“Le nouveau dynamisme du salafisme en Côte d’Ivoire: vers une radicalisation de l’islam ivoirien?” in Les Actes du Dixième Congrès International de l’Association des Études Mandé. Aux carrefours des identités: cohabitation, conflit, et réconciliation en Afrique de l’Ouest et dans les diasporas.
+- 2022	“Lutte contre le terrorisme et sécuritisation du salafisme au Bénin et au Togo: instrumentalisations diverses d’une “‘menace étrangère’”, Bulletin FrancoPaix 7 (8): 2–7. https://dandurand.uqam.ca/wp-content/uploads/2022/10/2022-10-Bulletin.pdf.
+
+## Encyclopedia Entry
+- 2014	**MADORE, F.** and M. GOMEZ-PEREZ, “Communauté Musulmane du Burkina Faso” in The Encyclopaedia of Islam, THREE, 66–67. Leiden: Brill. 10.1163/1573-3912_ei3_com_27698.
+
+## Conference Proceedings
+- 2017	“Le nouveau dynamisme du salafisme en Côte d’Ivoire: vers une radicalisation de l’islam ivoirien?” in *Les Actes du Dixième Congrès International de l’Association des Études Mandé. Aux carrefours des identités: cohabitation, conflit, et réconciliation en Afrique de l’Ouest et dans les diasporas*.
 
 # Grants and Fellowships
-- 2023	Support for an international conference,  (20,000 EUR)
-- 2018–20	, Social Sciences and Humanities Research Council of Canada SSHRC (140,000 CAD)
-- 2013–15	, SSHRC (100,005 CAD)
-- 2013–15	Doctoral Research Scholarship, Fonds Québécois de la Recherche sur la Société et la Culture FRQSC (80,000 CAD) [turned down]
-- 2011–12	, FQRSC (15,000 CAD)
-- 2010–11	, SSHRC (17,500 CAD)
+- 2023	Support for an international conference, Fritz Thyssen Foundation (20,000 EUR)
+- 2018–20	Banting Postdoctoral Fellowship, Social Sciences and Humanities Research Council of Canada SSHRC (140,000 CAD)
+- 2013–15	Joseph-Armand Bombardier Canada Graduate Scholarships Program Doctoral Scholarships, SSHRC (100,005 CAD)
+- 2013–15	Doctoral Research Scholarship, Fonds Québécois de la Recherche sur la Société et la Culture FRQSC (80,000 CAD) [turned down]
+- 2011–12	Master’s Research Scholarship, FQRSC (15,000 CAD)
+- 2010–11	Joseph-Armand Bombardier Canada Graduate Scholarships Program Master’s Scholarships, SSHRC (17,500 CAD)
 
 # Awards and Honors
-- 2023	, Canadian Social Knowledge Institute (C-SKI)
-- 2022	, Africa Today
+- 2023	Emerging Open Scholarship Award, Canadian Social Knowledge Institute (C-SKI)
+- 2022	Author of the month, Africa Today
 - 2018	Honor Roll of the Faculty of Graduate and Postdoctoral Studies, Université Laval
 - 2017	Excellence in Publication Award, Centre Interdisciplinaire de Recherche sur l’Afrique et le Moyen-Orient (CIRAM), Université Laval
-- 2015	, Fonds Gérard-Dion, Université Laval
+- 2015	Assistance to Publishing Award, Fonds Gérard-Dion, Université Laval
 - 2013	Honor Roll of the Faculty of Graduate and Postdoctoral Studies, Université Laval
 - 2010	Department of History Award of Excellence, Université Laval
-- 2010	, Université Laval
+- 2010	Jean-Guy Paquet Scholarship, Université Laval
 - 2007	Excellence Scholarship for admission to the B.A. in History, Université Laval
 
 # Digital Humanities Projects
 
-- 2023–	 is a collaborative, open-access digital database that currently contains over 5,000 documents of various types relating to Islam and Muslims in Burkina Faso, Benin, Niger, Nigeria, Togo, and Côte d’Ivoire.
-- 2018–23	 is an open-access database hosted by the University of Florida libraries containing over 2,900 archival documents, newspaper articles, Islamic publications, photographs, and 270 bibliographical references related to Islam in Burkina Faso.
-- Reviewed in  and 
+- 2023–	Islam West Africa Collection is a collaborative, open-access digital database that currently contains over 5,000 documents of various types relating to Islam and Muslims in Burkina Faso, Benin, Niger, Nigeria, Togo, and Côte d’Ivoire.
+- 2018–23	Islam Burkina Faso Collection is an open-access database hosted by the University of Florida libraries containing over 2,900 archival documents, newspaper articles, Islamic publications, photographs, and 270 bibliographical references related to Islam in Burkina Faso.<br>
+Reviewed in Reviews in Digital Humanities and Mande Studies
 
 # Invited Talks
-
-- 2023	“Launch of the Islam West Africa Collection”, Media in Cooperation and Transition (MiCT), Berlin, 9 November.
-- 2023	“Formation en recherche en ligne”, Université Joseph Ki-Zerbo, Ouagadougou (Burkina Faso), 19 July.
-- 2023	“Interfaith coexistence on the campuses of the University of Lomé (Togo) and the University of Abomey-Calavi (Benin) since the 1970s”, Workshop Religion for Peace? Identifying Conditions and Mechanisms of Interfaith Peace, German Institute for Global and Area Studies (GIGA), Berlin, 6 June.
-- 2022	“Recherche documentaire en ligne”, Workshop Religions on Campus: Coexisting Traditions, Reformulating the Secular and Life Projects, Laboratoire d’Études et de Recherche sur les Dynamiques Sociales et le Développement Local (LASDEL), Niamey (Niger), 3 November.
-- 2022	“‘Trop jeunes’, ‘immatures’ et pas suffisamment engagés: entre déclin des associations confessionnelles et nouveaux défis du militantisme étudiant à Lomé et à Abomey-Calavi”, Workshop Religions on Campus: Coexisting Traditions, Reformulating the Secular and Life Projects, LASDEL, Niamey (Niger), 31 October.
-- 2022	“A ‘Yovo’ Historian in Benin and Togo: Conducting Fieldwork in Times of Pandemic and Fears of Jihadism Spreading”, Workshop Researching Religion, Morality and Boko in West Africa, Martin-Luther-Universität Halle-Wittenberg (Germany), 14 June.
-- 2022	Workshop Point de passage et frontières religieuses, LASDEL (Niger), 3 June.
-- 2022	“Émancipation féminine et militantisme islamique en Afrique de l’Ouest depuis 1980: quelques enseignements du Burkina Faso, de la Côte d’Ivoire, du Togo et du Bénin”, Workshop Femmes africaines dans une société d’hommes: espaces contraints, habilité sociale et formes d’émancipation, Université de Kabala (Mali), 22 March.
-- 2022	“Les associations chrétiennes et islamiques sur les campus de l’Université d’Abomey-Calavi et de l’Université de Lomé depuis 1970: la laïcité à l’université face à l’activisme religieux”, Laboratoire d’Analyse et de Recherche, Religions, Espaces et Développement (LARRED), Université d’Abomey-Calavi (Benin), 8 March.
-- 2022	“Militantisme islamique sur le campus de l’Université de Lomé (Togo) depuis les années 1980: être musulman en contexte minoritaire, laïc et (semi-)autoritaire”, Chaire de recherche sur l’islam contemporain en Afrique de l’Ouest, Université du Québec à Montréal (Canada), 22 February.
-- 2022	Madore, F. and P. Collins, “Publishing the Islam Burkina Faso Collection: Collaboration for Digital Scholarship”, Digital Africa Working Group, University of Florida (United States), 14 February.
-- 2021	“La gestion de références bibliographiques avec Zotero”, Webinar Pilot African Postgraduate Academy (PAPA), 25 May.
-- 2021	“Salafisme et pentecôtisme sur les campus au Bénin et au Togo: la laïcité à l’université face à l’activisme religieux”, Conférence midi du CIRAM, Université Laval (Canada), 8 April.
-- 2021	“Recherche documentaire en ligne”, Webinar PAPA, 18 January.
-- 2020	“Political mobilizations in Burkina Faso”, University of Ottawa (Canada), 27 November.
-- 2020	“Representations of Islam and Muslims in Togo’s State-Owned Newspapers Since the 1960s: From Loyal Religious Minority to Potential Threat”, Workshop Islam, Media, and Popular Culture in Africa and Elsewhere, Center for Global Islamic Studies, University of Florida (United States), 9 October.
-- 2020	“‘Muslim Intellectuals’ and ‘Francophone Salafis’ in West Africa: New Religious Elites?”, Hamilton Lugar School of Global and International Studies, Indiana University Bloomington (United States), 1 October.
-- 2019	“La défense de la laïcité de l’État, un outil de revendication politique pour les musulmans au Burkina Faso (depuis 1960)”, West African Research Center (Dakar, Senegal), 4 July.
-- 2019	“La recherche documentaire en libre accès et la gestion de références bibliographiques avec Zotero”, Université Alassane Ouattara (Bouaké, Côte d’Ivoire), 7 June.
-- 2019	“L’Union Islamique du Bénin et les élections législatives: comment comprendre la crise interne”, Université d’Abomey-Calavi (Benin), 28 May.
-- 2017	“L’islam au Burkina Faso et en Côte d’Ivoire: éveil et radicalisation?”, Université du Québec à Rimouski (Canada), 13 February.
+- 2023	“Launch of the Islam West Africa Collection”, Media in Cooperation and Transition (MiCT), Berlin, 9 November.
+- 2023	“Formation en recherche en ligne”, Université Joseph Ki-Zerbo, Ouagadougou (Burkina Faso), 19 July.
+- 2023	“Interfaith coexistence on the campuses of the University of Lomé (Togo) and the University of Abomey-Calavi (Benin) since the 1970s”, Workshop Religion for Peace? Identifying Conditions and Mechanisms of Interfaith Peace, German Institute for Global and Area Studies (GIGA), Berlin, 6 June.
+- 2022	“Recherche documentaire en ligne”, Workshop Religions on Campus: Coexisting Traditions, Reformulating the Secular and Life Projects, Laboratoire d’Études et de Recherche sur les Dynamiques Sociales et le Développement Local (LASDEL), Niamey (Niger), 3 November.
+- 2022	“‘Trop jeunes’, ‘immatures’ et pas suffisamment engagés: entre déclin des associations confessionnelles et nouveaux défis du militantisme étudiant à Lomé et à Abomey-Calavi”, Workshop Religions on Campus: Coexisting Traditions, Reformulating the Secular and Life Projects, LASDEL, Niamey (Niger), 31 October.
+- 2022	“A ‘Yovo’ Historian in Benin and Togo: Conducting Fieldwork in Times of Pandemic and Fears of Jihadism Spreading”, Workshop Researching Religion, Morality and Boko in West Africa, Martin-Luther-Universität Halle-Wittenberg (Germany), 14 June.
+- 2022	Workshop Point de passage et frontières religieuses, LASDEL (Niger), 3 June.
+- 2022	“Émancipation féminine et militantisme islamique en Afrique de l’Ouest depuis 1980: quelques enseignements du Burkina Faso, de la Côte d’Ivoire, du Togo et du Bénin”, Workshop Femmes africaines dans une société d’hommes: espaces contraints, habilité sociale et formes d’émancipation, Université de Kabala (Mali), 22 March.
+- 2022	“Les associations chrétiennes et islamiques sur les campus de l’Université d’Abomey-Calavi et de l’Université de Lomé depuis 1970: la laïcité à l’université face à l’activisme religieux”, Laboratoire d’Analyse et de Recherche, Religions, Espaces et Développement (LARRED), Université d’Abomey-Calavi (Benin), 8 March.
+- 2022	“Militantisme islamique sur le campus de l’Université de Lomé (Togo) depuis les années 1980: être musulman en contexte minoritaire, laïc et (semi-)autoritaire”, Chaire de recherche sur l’islam contemporain en Afrique de l’Ouest, Université du Québec à Montréal (Canada), 22 February.
+- 2022	MADORE, F. and P. COLLINS, “Publishing the Islam Burkina Faso Collection: Collaboration for Digital Scholarship”, Digital Africa Working Group, University of Florida (United States), 14 February.
+- 2021	“La gestion de références bibliographiques avec Zotero”, Webinar Pilot African Postgraduate Academy (PAPA), 25 May.
+- 2021	“Salafisme et pentecôtisme sur les campus au Bénin et au Togo: la laïcité à l’université face à l’activisme religieux”, Conférence midi du CIRAM, Université Laval (Canada), 8 April.
+- 2021	“Recherche documentaire en ligne”, Webinar PAPA, 18 January.
+- 2020	“Political mobilizations in Burkina Faso”, University of Ottawa (Canada), 27 November.
+- 2020	“Representations of Islam and Muslims in Togo’s State-Owned Newspapers Since the 1960s: From Loyal Religious Minority to Potential Threat”, Workshop Islam, Media, and Popular Culture in Africa and Elsewhere, Center for Global Islamic Studies, University of Florida (United States), 9 October.
+- 2020	“‘Muslim Intellectuals’ and ‘Francophone Salafis’ in West Africa: New Religious Elites?”, Hamilton Lugar School of Global and International Studies, Indiana University Bloomington (United States), 1 October.
+- 2019	“La défense de la laïcité de l’État, un outil de revendication politique pour les musulmans au Burkina Faso (depuis 1960)”, West African Research Center (Dakar, Senegal), 4 July.
+- 2019	“La recherche documentaire en libre accès et la gestion de références bibliographiques avec Zotero”, Université Alassane Ouattara (Bouaké, Côte d’Ivoire), 7 June.
+- 2019	“L’Union Islamique du Bénin et les élections législatives: comment comprendre la crise interne”, Université d’Abomey-Calavi (Benin), 28 May.
+- 2017	“L’islam au Burkina Faso et en Côte d’Ivoire: éveil et radicalisation?”, Université du Québec à Rimouski (Canada), 13 February.
 
 # Conference Participation
 
