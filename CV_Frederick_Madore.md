@@ -12,12 +12,12 @@ Germany
 - Co-advisors: Muriel Gomez-Perez and Cédric Jourde (University of Ottawa)
 - M.A.	Department of History (with distinction), Université Laval, Canada, 2013
 - B.A.	Department of History, Université Laval, Canada, 2010
-- 
+
 ## Digital Humanities Trainings
 - 2023	“”, Hebrew University, Mount Scopus Campus (Israel), 27 February–1 March.
 - 2023	“Les humanités numériques dans les projets de recherche”, , Université de Poitiers (France), 23–27 January.
 - 2022	“Digital Archives: Reading and Manipulating Large-Scale Catalogues, Curating and Creating Small-Scale Archives”, , University of Leipzig (Germany), 2–12 August.
-- 
+
 ## Certificate
 - 2017	Arabic language, Université Laval, Canada
 - Professional appointments
@@ -29,11 +29,13 @@ Germany
 ## Books
 - 2023	Sounaye, A. and F. Madore (eds.), . Berlin: LIT Verlag.
 - 2016	La construction d’une sphère publique musulmane en Afrique de l’Ouest. Québec/Paris: /.
-- Reviewed in , , 
-- Guest Edited Journals
+- Reviewed in , ,
+
+## Guest Edited Journals
 - 2021–22	Madore, F. and D. Schulz (eds.), “Muslim Minorities in Africa, Part 1 & Part 2” Islamic Africa 12 (2) / 13 (1).  / .
 - 2017	Millet Mouity, P. and F. Madore (eds.), “Les acteurs religieux africains à l’ère du numérique” Émulations 24. .
-- Refereed Journal Articles
+
+## Refereed Journal Articles
 - 2022	“A Beninese Imam’s Controversial 2019 Election Campaign: Muslim Leadership and Political Engagement in a Minority Context” Islamic Africa 13 (1): 1–26. .
 - 2021	“La Collection Islam Burkina Faso: promesses et défis des humanités numériques” Revue d’Histoire Contemporaine de l’Afrique. .
 - 2021	“‘Good Muslim, bad Muslim’ in Togo: religious minority identity construction amid a sociopolitical crisis (2017–2018)” The Journal of Modern African Studies 59 (2): 197–217. .
@@ -47,7 +49,8 @@ Germany
 - 2016	“Islam, médias, mise en place du Sénat et article 37 de la Constitution: changement de paradigme au Burkina Faso (1991–2014)?” Canadian Journal of African Studies / Revue canadienne des études africaines 50 (1): 7–27. .
 - 2016	Madore, F. and M. Gomez-Perez, “Muslim Women in Burkina Faso since the 1970s: Toward Recognition as Figures of Religious Authority?” Islamic Africa 7 (2): 185–209. .
 - 2013	Gomez-Perez, M. and F. Madore, “Prêcheurs(ses) musulman(e)s et stratégies de communication au Burkina Faso depuis 1990: des processus différentiés de conversion interne” Théologiques 21 (2): 121–57. .
-- Book Chapters
+
+## Book Chapters
 - Forthcoming	Madore, F. and L. Audet Gosselin, “Religion on the Internet and in ICT in Burkina Faso” in A. Degorce, L.O. Kibora and K. Langewiesche (eds.), . Dakar: Amalion.
 - 2023	“Introduction: Religiosity on University Campuses in Africa” in A. Sounaye and F. Madore (eds.), , 3–21. Berlin: LIT Verlag.
 - 2023	“Exister en contexte autoritaire: les associations étudiantes chrétiennes et islamiques à l’Université de Lomé sous Gnassingbé Eyadéma, 1970–2005” in A. Sounaye and F. Madore (eds.), , 51–83. Berlin: LIT Verlag.
@@ -56,23 +59,23 @@ Germany
 - 2020	“Imams, Islamic Preachers, and Public Space in Ouagadougou (Burkina Faso) since the 1990s: Toward New Intergenerational Relationships and a Muslim Public Sphere” in L.J. Acquah and T. Falola (eds.), , 183–213. Durham, NC: Carolina Academic Press.
 - 2019	Madore, F. and L. Audet Gosselin, “Le religieux sur Internet et dans les NTIC au Burkina Faso” in A. Degorce, L.O. Kibora and K. Langewiesche (eds.), , 269–96. Dakar: Amalion.
 - 2016	Couillard, K., F. Madore and M. Gomez-Perez, “Leaders of National and Transnational Muslim NGOs in Burkina Faso: Diverse Forms and Experiences of Islamic Civic Engagement” in M.N. LeBlanc and L. Audet Gosselin (eds.), Faith and Charity: Religion and Humanitarian Assistance in West Africa, 105–23. London: Pluto Press. .
-- Report
+
+## Report
 - 2022	“Lutte contre le terrorisme et sécuritisation du salafisme au Bénin et au Togo: instrumentalisations diverses d’une “‘menace étrangère’”, Bulletin FrancoPaix 7 (8): 2–7. .
 - Encyclopedia Entry
 - 2014	Madore, F. and M. Gomez-Perez, “Communauté Musulmane du Burkina Faso” in The Encyclopaedia of Islam, THREE, 66–67. Leiden: Brill. .
 - Conference Proceedings
 - 2017	“Le nouveau dynamisme du salafisme en Côte d’Ivoire: vers une radicalisation de l’islam ivoirien?” in Les Actes du Dixième Congrès International de l’Association des Études Mandé. Aux carrefours des identités: cohabitation, conflit, et réconciliation en Afrique de l’Ouest et dans les diasporas.
-- In Preparation
-- Book
-- Religious Activism on Campuses in Togo and Benin since 1970 (submission of full manuscript in late 2023 [De Gruyter’s series “”]).
-- Grants and Fellowships
+
+# Grants and Fellowships
 - 2023	Support for an international conference,  (20,000 EUR)
 - 2018–20	, Social Sciences and Humanities Research Council of Canada SSHRC (140,000 CAD)
 - 2013–15	, SSHRC (100,005 CAD)
 - 2013–15	Doctoral Research Scholarship, Fonds Québécois de la Recherche sur la Société et la Culture FRQSC (80,000 CAD) [turned down]
 - 2011–12	, FQRSC (15,000 CAD)
 - 2010–11	, SSHRC (17,500 CAD)
-- Awards and Honors
+
+# Awards and Honors
 - 2023	, Canadian Social Knowledge Institute (C-SKI)
 - 2022	, Africa Today
 - 2018	Honor Roll of the Faculty of Graduate and Postdoctoral Studies, Université Laval
