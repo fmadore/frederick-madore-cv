@@ -1,6 +1,21 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: CV Frédérick Madore
-description: Research Fellow at Leibniz-Zentrum Moderner Orient (ZMO)
+name: Generate CV PDF
+on:
+  push:
+    branches:
+      - main  # Replace with your branch name
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Convert webpage to PDF
+      run: |
+        sudo apt-get install wkhtmltopdf
+        wkhtmltopdf https://fmadore.github.io/frederick-madore-cv/ cv.pdf
+    - name: Commit PDF
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add cv.pdf
+        git commit -m "Update CV PDF"
+        git push
