@@ -9,7 +9,7 @@ Germany
 # Education
 
 - Ph.D.	Department of History (with distinction), Université Laval, Canada, 2018<br>
-  Dissertation: Rivalités et collaborations entre ainés et cadets sociaux dans les milieux associatifs islamiques en Côte d’Ivoire et au Burkina Faso (1970–2017)<br>
+  Dissertation: *Rivalités et collaborations entre ainés et cadets sociaux dans les milieux associatifs islamiques en Côte d’Ivoire et au Burkina Faso (1970–2017)*<br>
   Co-advisors: Muriel Gomez-Perez and Cédric Jourde (University of Ottawa)
 - M.A.	Department of History (with distinction), Université Laval, Canada, 2013
 - B.A.	Department of History, Université Laval, Canada, 2010
