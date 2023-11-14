@@ -44,19 +44,19 @@ Germany</center>
 - 2017	MILLET MOUITY, P. and **F. MADORE** (eds.), “Les acteurs religieux africains à l’ère du numérique” *Émulations* 24. 10.14428/emulations.024.
   
 ## Refereed Journal Articles
-- 2022	“A Beninese Imam’s Controversial 2019 Election Campaign: Muslim Leadership and Political Engagement in a Minority Context” Islamic Africa 13 (1): 1–26. 10.1163/21540993-01202004.
-- 2021	“La Collection Islam Burkina Faso: promesses et défis des humanités numériques” Revue d’Histoire Contemporaine de l’Afrique. 10.51185/journals/rhca.2021.e610.
-- 2021	“‘Good Muslim, bad Muslim’ in Togo: religious minority identity construction amid a sociopolitical crisis (2017–2018)” The Journal of Modern African Studies 59 (2): 197–217. 10.1017/S0022278X21000094.
-- 2020	“Muslim Feminist, Media Sensation, and Religious Entrepreneur: Aminata Kane Koné as a Figure of Success in Côte d’Ivoire” Africa Today 67 (2–3): 17–38. 10.2979/africatoday.67.2-3.02.
-- 2020	“Francophone Muslim intellectuals, Islamic associational life and religious authority in Burkina Faso” Africa 90 (3): 625–46. 10.1017/S0001972020000108.
-- 2018	MADORE, F. and Y TRAORÉ, “L’organisation du hadj en Côte d’Ivoire: entre facteur de cohésion et source de rivalités au sein de la communauté musulmane (1993–2010)” Cahiers d’études africaines 229: 179–208. 10.4000/etudesafricaines.21880.
-- 2017	MILLET-MOUITY, P. and F. MADORE, “Pour de nouvelles études sur les acteurs religieux africains à l’ère du numérique” Émulations 24: 11–22. 10.14428/emulations.024.001.
-- 2017	HACKETT, R.I.J., F. MADORE and P. MILLET-MOUITY, “Interview with Rosalind I.J. Hackett on Religion and Digital Media Trends in Africa” Émulations 24: 125–33. 10.14428/emulations.024.008.
-- 2016	“The New Vitality of Salafism in Côte d’Ivoire: Toward a Radicalization of Ivoirian Islam?” Journal of Religion in Africa 46 (4): 417–52. 10.1163/15700666-12340090.
-- 2016	“L’islam ivoirien et burkinabé à l’ère du numérique 2.0” Journal des anthropologues 146–147: 151–78. 10.4000/jda.6525.
-- 2016	“Islam, médias, mise en place du Sénat et article 37 de la Constitution: changement de paradigme au Burkina Faso (1991–2014)?” Canadian Journal of African Studies / Revue canadienne des études africaines 50 (1): 7–27. 10.1080/00083968.2015.1101008.
-- 2016	MADORE, F. and M. GOMEZ-PEREZ, “Muslim Women in Burkina Faso since the 1970s: Toward Recognition as Figures of Religious Authority?” Islamic Africa 7 (2): 185–209. 10.1163/21540993-00702001.
-- 2013	GOMEZ-PEREZ, M. and F. MADORE, “Prêcheurs(ses) musulman(e)s et stratégies de communication au Burkina Faso depuis 1990: des processus différentiés de conversion interne” Théologiques 21 (2): 121–57. 10.7202/1028465ar.
+- 2022	“A Beninese Imam’s Controversial 2019 Election Campaign: Muslim Leadership and Political Engagement in a Minority Context” *Islamic Africa* 13 (1): 1–26. 10.1163/21540993-01202004.
+- 2021	“La Collection Islam Burkina Faso: promesses et défis des humanités numériques” *Revue d’Histoire Contemporaine de l’Afrique*. 10.51185/journals/rhca.2021.e610.
+- 2021	“‘Good Muslim, bad Muslim’ in Togo: religious minority identity construction amid a sociopolitical crisis (2017–2018)” *The Journal of Modern African Studies* 59 (2): 197–217. 10.1017/S0022278X21000094.
+- 2020	“Muslim Feminist, Media Sensation, and Religious Entrepreneur: Aminata Kane Koné as a Figure of Success in Côte d’Ivoire” *Africa Today* 67 (2–3): 17–38. 10.2979/africatoday.67.2-3.02.
+- 2020	“Francophone Muslim intellectuals, Islamic associational life and religious authority in Burkina Faso” *Africa* 90 (3): 625–46. 10.1017/S0001972020000108.
+- 2018	MADORE, F. and Y TRAORÉ, “L’organisation du hadj en Côte d’Ivoire: entre facteur de cohésion et source de rivalités au sein de la communauté musulmane (1993–2010)” *Cahiers d’études africaines* 229: 179–208. 10.4000/etudesafricaines.21880.
+- 2017	MILLET-MOUITY, P. and F. MADORE, “Pour de nouvelles études sur les acteurs religieux africains à l’ère du numérique” *Émulations* 24: 11–22. 10.14428/emulations.024.001.
+- 2017	HACKETT, R.I.J., F. MADORE and P. MILLET-MOUITY, “Interview with Rosalind I.J. Hackett on Religion and Digital Media Trends in Africa” *Émulations* 24: 125–33. 10.14428/emulations.024.008.
+- 2016	“The New Vitality of Salafism in Côte d’Ivoire: Toward a Radicalization of Ivoirian Islam?” *Journal of Religion in Africa* 46 (4): 417–52. 10.1163/15700666-12340090.
+- 2016	“L’islam ivoirien et burkinabé à l’ère du numérique 2.0” *Journal des anthropologues* 146–147: 151–78. 10.4000/jda.6525.
+- 2016	“Islam, médias, mise en place du Sénat et article 37 de la Constitution: changement de paradigme au Burkina Faso (1991–2014)?” *Canadian Journal of African Studies / Revue canadienne des études africaines* 50 (1): 7–27. 10.1080/00083968.2015.1101008.
+- 2016	MADORE, F. and M. GOMEZ-PEREZ, “Muslim Women in Burkina Faso since the 1970s: Toward Recognition as Figures of Religious Authority?” *Islamic Africa* 7 (2): 185–209. 10.1163/21540993-00702001.
+- 2013	GOMEZ-PEREZ, M. and F. MADORE, “Prêcheurs(ses) musulman(e)s et stratégies de communication au Burkina Faso depuis 1990: des processus différentiés de conversion interne” *Théologiques* 21 (2): 121–57. 10.7202/1028465ar.
 
 ## Book Chapters
 - Forthcoming	MADORE, F. and L. AUDET GOSSELIN, “Religion on the Internet and in ICT in Burkina Faso” in A. DEGORCE, L.O. KIBORA and K. LANGEWIESCHE (eds.), Religious Encounters and Social - Dynamics in Burkina Faso. Dakar: Amalion.
