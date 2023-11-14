@@ -3,12 +3,9 @@
 
 <center>14 november 2023</center>
 
-Leibniz-Zentrum Moderner Orient
-
-Kirchweg 33
-
-14129 Berlin
-
+Leibniz-Zentrum Moderner Orient<br>
+Kirchweg 33<br>
+14129 Berlin<br>
 Germany
 
 # Education
