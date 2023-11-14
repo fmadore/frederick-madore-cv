@@ -1,4 +1,4 @@
-# <center>Curriculum Vitae</center>
+# <center>CV Frédérick Madore</center>
 
 # Education
 
