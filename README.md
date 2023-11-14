@@ -173,8 +173,10 @@ Reviewed in Reviews in Digital Humanities and Mande Studies
 - The African Past, undergraduate (fall 2020)
 
 ## University of Florida
+
 ### Instructor
 - Francophone West Africa, undergraduate (spring 2020)
+
 ### Guest Lecturer
 - “Colonial Surveillance in French West Africa in the Interwar Period”, Politics, Identity and Violence in Africa, undergraduate (11 September 2020).
 - “Islam and Muslim Societies in Francophone West Africa”, Religions of Africa, undergraduate (5 September 2019).
