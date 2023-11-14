@@ -25,7 +25,8 @@ Germany
 ## Certificate
 
 - 2017	Arabic language, Université Laval, Canada
-- Professional appointments
+
+# Professional appointments
 - 2021–	Research Fellow, Leibniz-Zentrum Moderner Orient (Germany)
 - 2020		Part-Time Professor, Department of History, University of Ottawa (Canada)
 - 2018–20	Banting Postdoctoral Fellow, Center for African Studies, University of Florida (United States)
@@ -34,14 +35,14 @@ Germany
 
 ## Books
 
-- 2023	Sounaye, A. and F. Madore (eds.), . Berlin: LIT Verlag.
-- 2016	La construction d’une sphère publique musulmane en Afrique de l’Ouest. Québec/Paris: /.
-- Reviewed in , ,
+- 2023	SOUNAYE, A. and **F. MADORE** (eds.), *Religiosity on University Campuses in Africa: Trends and Experiences*. Berlin: LIT Verlag.
+- 2016	La construction d’une sphère publique musulmane en Afrique de l’Ouest. Québec/Paris: Presses de l’Université Laval/Hermann.<br>
+	*Reviewed in Afrique contemporaine*, *Cahiers d'études africaines*, *The Journal of African History*
 
 ## Guest Edited Journals
-- 2021–22	Madore, F. and D. Schulz (eds.), “Muslim Minorities in Africa, Part 1 & Part 2” Islamic Africa 12 (2) / 13 (1).  / .
-- 2017	Millet Mouity, P. and F. Madore (eds.), “Les acteurs religieux africains à l’ère du numérique” Émulations 24. .
-
+- 2021–22	**MADORE, F.** and D. SCHULZ (eds.), “Muslim Minorities in Africa, Part 1 & Part 2” Islamic Africa 12 (2) / 13 (1). https://brill.com/view/journals/iafr/12/2/iafr.12.issue-2.xml / https://brill.com/view/journals/iafr/13/1/iafr.13.issue-1.xml.
+- 2017	MILLET MOUITY, P. and **F. MADORE** (eds.), “Les acteurs religieux africains à l’ère du numérique” Émulations 24. 10.14428/emulations.024.
+  
 ## Refereed Journal Articles
 - 2022	“A Beninese Imam’s Controversial 2019 Election Campaign: Muslim Leadership and Political Engagement in a Minority Context” Islamic Africa 13 (1): 1–26. .
 - 2021	“La Collection Islam Burkina Faso: promesses et défis des humanités numériques” Revue d’Histoire Contemporaine de l’Afrique. .
