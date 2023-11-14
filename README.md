@@ -1,3 +1,5 @@
+# <center>Frédérick Madore<\center>
+
 # Education
 
 - Ph.D.	Department of History (with distinction), Université Laval, Canada, 2018<br>
