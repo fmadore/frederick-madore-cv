@@ -59,10 +59,10 @@
 - 2016	COUILLARD, K., F. MADORE and M. GOMEZ-PEREZ, “Leaders of National and Transnational Muslim NGOs in Burkina Faso: Diverse Forms and Experiences of Islamic Civic Engagement” in M.N. LEBLANC and L. AUDET GOSSELIN (eds.), Faith and Charity: Religion and Humanitarian Assistance in West Africa, 105–23. London: Pluto Press. 10.2307/j.ctt1gk0810.11.
 
 ## Report
-- 2022	“Lutte contre le terrorisme et sécuritisation du salafisme au Bénin et au Togo: instrumentalisations diverses d’une “‘menace étrangère’”, Bulletin FrancoPaix 7 (8): 2–7. https://dandurand.uqam.ca/wp-content/uploads/2022/10/2022-10-Bulletin.pdf.
+- 2022	“Lutte contre le terrorisme et sécuritisation du salafisme au Bénin et au Togo: instrumentalisations diverses d’une “‘menace étrangère’”, *Bulletin FrancoPaix* 7 (8): 2–7. https://dandurand.uqam.ca/wp-content/uploads/2022/10/2022-10-Bulletin.pdf.
 
 ## Encyclopedia Entry
-- 2014	**MADORE, F.** and M. GOMEZ-PEREZ, “Communauté Musulmane du Burkina Faso” in The Encyclopaedia of Islam, THREE, 66–67. Leiden: Brill. 10.1163/1573-3912_ei3_com_27698.
+- 2014	**MADORE, F.** and M. GOMEZ-PEREZ, “Communauté Musulmane du Burkina Faso” in *The Encyclopaedia of Islam, THREE*, 66–67. Leiden: Brill. 10.1163/1573-3912_ei3_com_27698.
 
 ## Conference Proceedings
 - 2017	“Le nouveau dynamisme du salafisme en Côte d’Ivoire: vers une radicalisation de l’islam ivoirien?” in *Les Actes du Dixième Congrès International de l’Association des Études Mandé. Aux carrefours des identités: cohabitation, conflit, et réconciliation en Afrique de l’Ouest et dans les diasporas*.
