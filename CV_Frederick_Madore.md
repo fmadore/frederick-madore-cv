@@ -9,8 +9,8 @@ Germany
 # Education
 
 - Ph.D.	Department of History (with distinction), Université Laval, Canada, 2018<br>
-  Dissertation: *Rivalités et collaborations entre ainés et cadets sociaux dans les milieux associatifs islamiques en Côte d’Ivoire et au Burkina Faso (1970–2017)*<br>
-  Co-advisors: Muriel Gomez-Perez and Cédric Jourde (University of Ottawa)
+  	Dissertation: *Rivalités et collaborations entre ainés et cadets sociaux dans les milieux associatifs islamiques en Côte d’Ivoire et au Burkina Faso (1970–2017)*<br>
+  	Co-advisors: Muriel Gomez-Perez and Cédric Jourde (University of Ottawa)
 - M.A.	Department of History (with distinction), Université Laval, Canada, 2013
 - B.A.	Department of History, Université Laval, Canada, 2010
 
@@ -90,11 +90,15 @@ Germany
 - 2010	Department of History Award of Excellence, Université Laval
 - 2010	, Université Laval
 - 2007	Excellence Scholarship for admission to the B.A. in History, Université Laval
-- Digital Humanities Projects
+
+# Digital Humanities Projects
+
 - 2023–	 is a collaborative, open-access digital database that currently contains over 5,000 documents of various types relating to Islam and Muslims in Burkina Faso, Benin, Niger, Nigeria, Togo, and Côte d’Ivoire.
 - 2018–23	 is an open-access database hosted by the University of Florida libraries containing over 2,900 archival documents, newspaper articles, Islamic publications, photographs, and 270 bibliographical references related to Islam in Burkina Faso.
 - Reviewed in  and 
-- Invited Talks
+
+# Invited Talks
+
 - 2023	“Launch of the Islam West Africa Collection”, Media in Cooperation and Transition (MiCT), Berlin, 9 November.
 - 2023	“Formation en recherche en ligne”, Université Joseph Ki-Zerbo, Ouagadougou (Burkina Faso), 19 July.
 - 2023	“Interfaith coexistence on the campuses of the University of Lomé (Togo) and the University of Abomey-Calavi (Benin) since the 1970s”, Workshop Religion for Peace? Identifying Conditions and Mechanisms of Interfaith Peace, German Institute for Global and Area Studies (GIGA), Berlin, 6 June.
@@ -116,10 +120,13 @@ Germany
 - 2019	“La recherche documentaire en libre accès et la gestion de références bibliographiques avec Zotero”, Université Alassane Ouattara (Bouaké, Côte d’Ivoire), 7 June.
 - 2019	“L’Union Islamique du Bénin et les élections législatives: comment comprendre la crise interne”, Université d’Abomey-Calavi (Benin), 28 May.
 - 2017	“L’islam au Burkina Faso et en Côte d’Ivoire: éveil et radicalisation?”, Université du Québec à Rimouski (Canada), 13 February.
-- Conference Participation
-- Panel Organized
+
+# Conference Participation
+
+## Panel Organized
 - 2019	“Muslim Minorities in Africa”, 62nd Meeting of the African Studies Association, Boston (United States), 21–23 November.
-- Papers Presented
+
+## Papers Presented
 - 2023	“‘Too Young,’ ‘Immature,’ and not Committed Enough: The Decline of Faith-Based Student Organizations in Togo and Benin?”, 9th European Conference on African Studies, University of Cologne (Germany), 30 May–3 June.
 - 2022	Madore, F. and P. Collins, “Publishing the Islam Burkina Faso Collection: Collaboration for Digital Scholarship”, 34th Deutscher Orientalistentag, Freie Universität Berlin (Germany), 12–17 September.
 - 2022	“Publishing the Islam Burkina Faso Collection with Omeka S”, 3rd Annual conference of the Africa Multiple Cluster of Excellence “Medialities”, Universität Bayreuth (Germany), 8 July.
@@ -150,7 +157,8 @@ Germany
 - 2018	“Les élites musulmanes en Côte d’Ivoire et au Burkina Faso depuis 1990: des mobilisations politiques contrastées”, Conférences midi du CIRAM, Université Laval, 25 September.
 - 2018	“‘Militantisme bissap’, féminisme islamique et entrepreneuriat religieux en Côte d’Ivoire: Aminata Kane Koné, une figure de la réussite”, Workshop Entrepreneuriat religieux et figures de la réussite en Afrique subsaharienne: terrains et concepts, Université Laval, 8 September.
 - 2016	“Évolutions et nouvelles formes de l’islam en Afrique de l’Ouest: vers une radicalisation?” round table organized by CIRAM, Université Laval, 24 March.
-- Teaching Experience
+
+# Teaching Experience
 - Universität Bayreuth
 - Guest Lecturer
 - “Islam and Muslims in West Africa”, Religion in/from Africa, graduate (31 May 2022).
@@ -195,14 +203,16 @@ Germany
 - 2011		Research Assistant, Université du Québec à Montréal (UQÀM)
 - For the SSHRC project “ONG confessionnelles en Afrique: une société civile en construction?” [Faith-based NGOs in Africa: A civil society in formation?] directed by M.N. LeBlanc (lead researcher) and M. Gomez-Perez.
 - Conducted interviews of leaders of Islamic NGOs in Ouagadougou (Burkina Faso) and wrote field report.
-- Service to Profession
-- Peer Review
+
+# Service to Profession
+## Peer Review
 - 2022	Journal Article – Politique africaine
 - 2022	Journal Article – Archipélies
 - 2021	Journal Article – Africa Spectrum
 - 2019	Journal Article – The Communication Review
 - 2018	Journal Article – Canadian Journal of African Studies / Revue canadienne des études africaines
-- Media Appearances
+
+## Media Appearances
 - 2019	Interviewed by TV5 Monde (“64’ le monde en français”), 29 January.
 	Topic: deteriorating security situation in Burkina Faso.
 - 2019	Interviewed by QUB Radio, 28 January.
