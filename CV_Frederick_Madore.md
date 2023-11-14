@@ -1,6 +1,6 @@
 # Frédérick Madore
-<center># Curriculum Vitae</center>
-14 november 2023
+# Curriculum Vitae
+<center>14 november 2023</center>
 Leibniz-Zentrum Moderner Orient
 Kirchweg 33
 14129 Berlin
