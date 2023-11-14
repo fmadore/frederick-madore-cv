@@ -180,13 +180,16 @@ Reviewed in Reviews in Digital Humanities and Mande Studies
 - “Islam and Muslim Societies in Francophone West Africa”, Religions of Africa, undergraduate (5 September 2019).
 
 ## Université Laval
+
 ### Instructor
 - Dissertation historique [Historical writing], undergraduate (8 sections; fall 2013–winter 2018)
+
 ### Teaching Assistant
 - Le monde aux XIXe et XXe siècles [The World in the nineteenth and twentieth centuries], undergraduate (10 sections; fall 2010–fall 2017)
 - Histoire religieuse au Québec [Religious history of Quebec], undergraduate (winter 2016)
 - Recherche, analyse et dissertation [Research, analysis and dissertation], undergraduate (fall 2010, winter 2011)
 - Dissertation historique [Historical writing], undergraduate (fall 2010)
+
 ### Guest Lecturer
 - “Outils technologiques pour la recherche en histoire”, Recherche et rédaction [Research and Writing], undergraduate (16 February 2018)
 - “La recherche historique en Afrique de l’Ouest: enjeux et défis”, Les sciences historiques aujourd’hui [Historical Sciences Today], undergraduate (5 February 2018)
